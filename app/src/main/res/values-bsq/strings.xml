@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AgriCoop Liberia (Bassa)</string>
+    <string name="app_title">AgriCoop Liberia (Bassa)</string>
+    <string name="app_subtitle">Grand Bassa &amp; Margibi Produce Union</string>
+    <string name="tab_dashboard">Bassa Dashboard</string>
+    <string name="tab_weigh">Scale Tuber Harvest</string>
+    <string name="tab_farmers">Farmers Registry</string>
+    <string name="tab_processing">Processing Mills</string>
+    <string name="tab_financials">Coop Payouts &amp; Grants</string>
+    <string name="tab_sync">Offline Network Sync</string>
+    <string name="weigh_scale_title">Bluetooth Scale Station</string>
+    <string name="weigh_scale_connected">Scale Online &amp; Ready</string>
+    <string name="weigh_scale_disconnected">Scale Connection Interrupted</string>
+    <string name="create_batch_button">Save Tuber Lot &amp; Print Receipt</string>
+    <string name="farmer_search_placeholder">Search Bassa coop member...</string>
+    <string name="total_tonnage_label">Aggregated Tuber Yield</string>
+    <string name="starch_content_label">Starch Density Percentage</string>
+    <string name="mobile_payout_label">Direct MoMo Payouts</string>
+    <string name="offline_sync_label">Low-Bandwidth Packet Sync</string>
+    <string name="gemini_forecast_title">Gemini AI Harvest Forecast Model</string>
+    <string name="low_battery_warning">Battery Critical - Solar Charging Needed</string>
+    <string name="language_settings_title">Bassa Dialect &amp; Language Options</string>
+</resources>

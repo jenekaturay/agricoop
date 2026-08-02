@@ -1,0 +1,6 @@
+{
+  "name": "AgriCoop Liberia",
+  "description": "Low-bandwidth offline-first tuber processing, farmer mobile money payouts, and batch tracking for Liberia co-ops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

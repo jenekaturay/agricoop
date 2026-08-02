@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center plant sprout and tuber emblem -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,28 C45,38 36,46 36,58 C36,68 44,76 54,76 C64,76 72,68 72,58 C72,46 63,38 54,28 Z" />
+    <path
+        android:fillColor="#10FFFFFF"
+        android:pathData="M54,28 C50,38 46,46 46,58 C46,65 50,71 54,73 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,40 L57,40 L57,68 L51,68 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M54,34 C60,42 66,48 66,56 C66,62 61,68 54,70 Z" />
+</vector>

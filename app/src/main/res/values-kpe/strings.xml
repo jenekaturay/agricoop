@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AgriCoop Liberia (Kpelle)</string>
+    <string name="app_title">AgriCoop Liberia (Kpelle)</string>
+    <string name="app_subtitle">Bong &amp; Lofa Farm Co-op Network</string>
+    <string name="tab_dashboard">Kpelle Dashboard</string>
+    <string name="tab_weigh">Scale Cassava/Yam</string>
+    <string name="tab_farmers">Farmers Guild</string>
+    <string name="tab_processing">Processing Center</string>
+    <string name="tab_financials">Grant Treasury</string>
+    <string name="tab_sync">Data Sync Network</string>
+    <string name="weigh_scale_title">Bluetooth Scale Unit (Kpelle)</string>
+    <string name="weigh_scale_connected">Scale Active &amp; Calibrated</string>
+    <string name="weigh_scale_disconnected">Scale Disconnected</string>
+    <string name="create_batch_button">Record Harvest &amp; Generate Ticket</string>
+    <string name="farmer_search_placeholder">Find farmer member record...</string>
+    <string name="total_tonnage_label">Total Harvest Volume (Kg)</string>
+    <string name="starch_content_label">Starch Yield Quality</string>
+    <string name="mobile_payout_label">Mobile Money Disbursement</string>
+    <string name="offline_sync_label">Cellular Packet Transfer</string>
+    <string name="gemini_forecast_title">Gemini AI Tuber Volume Predictor</string>
+    <string name="low_battery_warning">Battery Low - Connect Solar Power</string>
+    <string name="language_settings_title">Kpelle Dialect &amp; Interface Language</string>
+</resources>

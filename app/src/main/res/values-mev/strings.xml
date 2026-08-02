@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AgriCoop Nimba (Mano)</string>
+    <string name="app_title">AgriCoop Nimba (Mano)</string>
+    <string name="app_subtitle">Sanniquellie &amp; Sagleipie Agribusiness</string>
+    <string name="tab_dashboard">Mano Dashboard</string>
+    <string name="tab_weigh">Scale Tuber Batch</string>
+    <string name="tab_farmers">Mano Farmers Union</string>
+    <string name="tab_processing">Sanniquellie Mill</string>
+    <string name="tab_financials">Nimba Grant Fund</string>
+    <string name="tab_sync">Offline Data Sync</string>
+    <string name="weigh_scale_title">Nimba Scale Station (Mano)</string>
+    <string name="weigh_scale_connected">Scale Online (Bluetooth IP67)</string>
+    <string name="weigh_scale_disconnected">Scale Disconnected</string>
+    <string name="create_batch_button">Record Tuber Weighing &amp; Print Slip</string>
+    <string name="farmer_search_placeholder">Search Mano farmer member...</string>
+    <string name="total_tonnage_label">Total Nimba Tonnage (Kg)</string>
+    <string name="starch_content_label">Starch Quality Density %</string>
+    <string name="mobile_payout_label">Nimba MoMo Payments</string>
+    <string name="offline_sync_label">2G/3G Packet Sync</string>
+    <string name="gemini_forecast_title">Gemini AI Nimba Harvest Predictor</string>
+    <string name="low_battery_warning">Low Battery - Connect Solar Panel</string>
+    <string name="language_settings_title">Mano Dialect &amp; Language Settings</string>
+</resources>

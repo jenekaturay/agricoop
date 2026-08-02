@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AgriCoop Lofa (Lorma)</string>
+    <string name="app_title">AgriCoop Lofa (Lorma)</string>
+    <string name="app_subtitle">Voinjama &amp; Zorzor Agricultural Guild</string>
+    <string name="tab_dashboard">Lorma Center</string>
+    <string name="tab_weigh">Scale Cassava Lot</string>
+    <string name="tab_farmers">Lofa Farmers Guild</string>
+    <string name="tab_processing">Voinjama Processing Hub</string>
+    <string name="tab_financials">Lofa Treasury Grants</string>
+    <string name="tab_sync">Packet Data Sync</string>
+    <string name="weigh_scale_title">Lofa Scale Unit (Bluetooth IP67)</string>
+    <string name="weigh_scale_connected">Scale Connected (Zorzor Station)</string>
+    <string name="weigh_scale_disconnected">Scale Disconnected</string>
+    <string name="create_batch_button">Save Lorma Tuber Batch &amp; Print Ticket</string>
+    <string name="farmer_search_placeholder">Search Lofa farmer name or ID...</string>
+    <string name="total_tonnage_label">Total Lofa Tonnage Collected</string>
+    <string name="starch_content_label">Starch Yield Quality %</string>
+    <string name="mobile_payout_label">Lofa MoMo Digital Payouts</string>
+    <string name="offline_sync_label">2G Packet Sync Protocol</string>
+    <string name="gemini_forecast_title">Gemini AI Lofa Crop Predictor</string>
+    <string name="low_battery_warning">Low Battery - Plug Solar System</string>
+    <string name="language_settings_title">Lorma Dialect &amp; Regional Interface</string>
+</resources>
